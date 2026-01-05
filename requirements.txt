@@ -1,20 +1,7 @@
-fastapi
-uvicorn
-python-multipart
-aiofiles
-PyMuPDF
-requests
-pytesseract
-Pillow
+streamlit
+httpx
+pypdf
 python-docx
+pillow
+pytesseract
 pdf2image
-
-
-# fastapi
-# uvicorn
-# httpx
-# pypdf
-# python-docx
-# pillow
-# pytesseract
-# pdf2image
